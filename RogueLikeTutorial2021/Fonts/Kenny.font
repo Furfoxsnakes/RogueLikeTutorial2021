@@ -1,0 +1,11 @@
+﻿{
+  "$type": "SadConsole.SadFont, SadConsole",
+  "Name": "Kenny",
+  "FilePath": "Kenny.png",
+  "GlyphHeight": 16,
+  "GlyphPadding": 0,
+  "GlyphWidth": 16,
+  "SolidGlyphIndex": 0,
+  "Columns": 48,
+  "IsSadExtended": false
+}
